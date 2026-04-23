@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 1.0.25</title>
+            <pubDate>Wed, 17 Apr 2026 01:30:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.skiltrak.android" sparkle:version="1.0.26" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
