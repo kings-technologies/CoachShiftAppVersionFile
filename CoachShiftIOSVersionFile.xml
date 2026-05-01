@@ -3,9 +3,9 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.0.0</title>
-            <pubDate>Thu, 23 Apr 2026 06:30:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/coachshift/id6762374174" sparkle:version="1.0.0" sparkle:os="ios" />
+            <title>Version 1.0.1</title>
+            <pubDate>Thu, 1 May 2026 10:30:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/coachshift/id6762374174" sparkle:version="1.0.2" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
